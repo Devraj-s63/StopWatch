@@ -1,6 +1,6 @@
-import React from "react";
+import StopWatch from "./StopWatch";
 
 function App(){
-  return(<></>)
+  return(<StopWatch/>)
 }
 export default App;
